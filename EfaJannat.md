@@ -6,9 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-body{
-   text-color: blueviolet;
-}
 <body>
    
     <h1><i>We are the dreamers.</i></h1>
